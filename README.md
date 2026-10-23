@@ -15,7 +15,7 @@ A web app that helps university students manage their coursework in one place: a
 - Study sessions with planned and completed time, and a total of time studied
 - Every student only sees their own data
 
-## login
+## Login
 <img width="1043" height="549" alt="image" src="https://github.com/user-attachments/assets/1b423a51-2d96-41d1-ab62-0614c67efb04" />
 
 ## Screenshots 
