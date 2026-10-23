@@ -21,7 +21,7 @@ A web app that helps university students manage their coursework in one place: a
 ## Screenshots 
 ## Manage assignments
 <img width="1895" height="859" alt="image" src="https://github.com/user-attachments/assets/12f99997-d09b-4ee6-8eb4-9a4637ccf821" />
-## Add notes
+# Add notes
 <img width="1867" height="885" alt="image" src="https://github.com/user-attachments/assets/af8611bb-2477-4f4a-9ef1-3df865f791d4" />
 
 
