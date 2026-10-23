@@ -15,11 +15,11 @@ A web app that helps university students manage their coursework in one place: a
 - Study sessions with planned and completed time, and a total of time studied
 - Every student only sees their own data
 
-##login
+## login
 <img width="1043" height="549" alt="image" src="https://github.com/user-attachments/assets/1b423a51-2d96-41d1-ab62-0614c67efb04" />
 
-##screenshots 
-#manage assignments
+## screenshots 
+## manage assignments
 <img width="1895" height="859" alt="image" src="https://github.com/user-attachments/assets/12f99997-d09b-4ee6-8eb4-9a4637ccf821" />
 ## add notes
 <img width="1867" height="885" alt="image" src="https://github.com/user-attachments/assets/af8611bb-2477-4f4a-9ef1-3df865f791d4" />
